@@ -15,8 +15,8 @@ times_nfl = [
     },
     {
         'id': 3,
-        'name': 'Tamba Bay Buccaneers',
-        'city': 'Tamba'
+        'name': 'Tampa Bay Buccaneers',
+        'city': 'Tampa'
     },        
 ]
 
