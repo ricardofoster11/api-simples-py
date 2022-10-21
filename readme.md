@@ -3,4 +3,4 @@
     - localhost/times (POST)
     - localhost/times/id (GET)
     - localhost/times/id (PUT)
-    - localhost/times (DELETE)
+    - localhost/times/id (DELETE)
